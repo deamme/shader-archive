@@ -1,5 +1,5 @@
 // Author: Deam
-// Title: RBG Swarm
+// Title: RGB Swarm
 // Date: 19/9/2018
 
 #ifdef GL_ES
